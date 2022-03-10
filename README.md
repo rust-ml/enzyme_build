@@ -1,5 +1,7 @@
 # Enzyme build helper
 
+# Archived, since it was integrated into Enzyme here: https://github.com/EnzymeAD/Enzyme/pull/519
+
 ## Goal
 
 This repository will build enzyme/llvm/clang/rustc in the right configuration such that you can use it in combination with [oxide-enzyme](https://github.com/rust-ml/oxide-enzyme).
